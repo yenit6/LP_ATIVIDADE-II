@@ -4,8 +4,6 @@
 #include <string.h>
 #include <ctype.h>
 
-int main()
-{
 
     int main()
     {
@@ -43,5 +41,3 @@ int main()
         return 0;
     }
 
-    return 0;
-}
